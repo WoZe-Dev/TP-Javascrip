@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clair Obscur: Expedition 33 - Quiz</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+    <div class="particles"></div>
+    
+    <div class="container">
+        <header>
+            <h1 data-text="Clair Obscur">Clair Obscur</h1>
+            <div class="subtitle">Expedition 33</div>
+        </header>
+        
+        <div class="quiz-card">
+            <div class="quiz-intro active" id="quiz-intro">
+                <h2>Quiz Festival de l'Expédition</h2>
+                <p>Antoine est un PNJ qui vous interroge au festival de l'expédition pendant le prologue. Si vous obtenez toutes les bonnes réponses, il vous donne l'une des trois Jetons de Festival.</p>
+                <button id="startButton" class="btn btn-primary">Commencer le quiz</button>
+            </div>
+            
+            <div id="question-area"></div>
+            <div id="result-area"></div>
+            
+            <div class="quiz-controls">
+                <button id="prevButton" class="btn btn-secondary me-2" style="display: none;">Précédent</button>
+                <button id="nextButton" class="btn btn-secondary">Suivant</button>
+                <button id="validateButton" class="btn btn-success">Valider</button>
+            </div>
+        </div>
+        
+        <footer>
+            <p>TP1 Ilia Choumitzky 3IW2</p>
+        </footer>
+    </div>
+    
+    <script src="tp.js"></script>
+</body>
+</html>
