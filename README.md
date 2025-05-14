@@ -1,56 +1,55 @@
-# Clair Obscur: Expedition 33 - Quiz Application
+# Clair Obscur : Expédition 33 - Application Quiz
 
-## Project Description
+## Description du projet
 
-This web application provides an interactive quiz experience based on the "Clair Obscur: Expedition 33" universe. The quiz simulates an interaction with Antoine, an NPC (Non-Player Character) who questions players during the expedition festival's prologue. Players who answer all questions correctly will be rewarded with one of three Festival Tokens.
+Cette application web propose un quiz interactif basé sur l'univers de « Clair Obscur : Expédition 33 ». Le quiz simule une interaction avec Antoine, un PNJ (Personnage Non Joueur) qui interroge les joueurs pendant le prologue du festival de l'expédition. Les joueurs qui répondent correctement à toutes les questions recevront l'un des trois jetons du festival.
 
-The application features a cosmic, space-themed design with animated stars and particles that create an immersive atmosphere matching the science-fiction theme of the Clair Obscur universe.
+L'application présente un design cosmique et spatial, avec des étoiles et des particules animées qui créent une atmosphère immersive en harmonie avec le thème de science-fiction de l'univers Clair Obscur.
 
-## Features
+## Fonctionnalités
 
-- Interactive quiz interface with multiple-choice questions
-- Cosmic visual design with animated stars and particles background
-- Responsive layout that works across different device sizes
-- Navigation controls to move between questions
-- Results display at the end of the quiz
-- Ability to restart the quiz
-- Animated text effects for enhanced visual appeal
+- Interface de quiz interactive avec questions à choix multiples
+- Design visuel cosmique avec étoiles et particules animées en arrière-plan
+- Mise en page responsive compatible avec différentes tailles d'appareils
+- Commandes de navigation pour passer d'une question à l'autre
+- Affichage des résultats à la fin du quiz
+- Possibilité de redémarrer le quiz
+- Effets de texte animés pour un attrait visuel amélioré
 
-## Technologies Used
+## Technologies utilisées
 
-- HTML5 for structure
-- CSS3 for styling and animations
-- JavaScript for interactive functionality
-- Google Fonts (Inter, Space Grotesk) for typography
-- Responsive design principles
+- HTML5 pour la structure
+- CSS3 pour le style et les animations
+- JavaScript pour les fonctionnalités interactives
+- Polices Google (Inter, Space Grotesk) pour la typographie
+- Principes de conception responsive
 
-## Installation and Usage
+## Installation et utilisation
 
-1. **Clone the repository**
-   ```
-   git clone https://github.com/WoZe-Dev/TP-Javascrip.git
-   ```
+1. **Cloner le dépôt**
+```
+git clone https://github.com/WoZe-Dev/TP-Javascrip.git
+```
 
-2. **Open the project**
-   - Navigate to the project directory
-   - Open `index.html` in your web browser
+2. **Ouvrir le projet**
+- Accéder au répertoire du projet
+- Ouvrir `index.html` dans votre navigateur web
 
-   OR
+OU
 
-   - Simply host the files on any web server and access them through your browser
+- Héberger les fichiers sur un serveur web et y accéder via votre navigateur
 
-3. **Using the Quiz**
-   - Click the "Commencer le quiz" (Start Quiz) button to begin
-   - Read each question carefully and select your answer
-   - Use the navigation buttons to move between questions
-   - Click "Valider" (Validate) to submit your answers
-   - View your results at the end of the quiz
+3. **Utilisation du Quiz**
+- Cliquez sur le bouton « Commencer le quiz » pour commencer.
+- Lisez attentivement chaque question et sélectionnez votre réponse.
+- Utilisez les boutons de navigation pour naviguer entre les questions.
+- Cliquez sur « Valider » pour soumettre vos réponses.
+- Consultez vos résultats à la fin du quiz.
 
-## Author Information
+## Informations sur l'auteur
 
-Developed by Ilia Choumitzky (3IW2) as part of TP1 JavaScript coursework at ESGI.
+Développé par Ilia Choumitzky (3IW2) dans le cadre du cours JavaScript TP1 à l'ESGI.
 
-## License
+## Licence
 
-This project is created for educational purposes.
-
+Ce projet est créé à des fins éducatives.
