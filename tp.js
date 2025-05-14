@@ -29,13 +29,13 @@ let userAnswers = [];
 
 const container = document.querySelector('.container');
 const startButton = document.getElementById('startButton');
-const prevButton = document.getElementById('prevButton'); // Nouveau bouton
+const prevButton = document.getElementById('prevButton'); 
 const nextButton = document.getElementById('nextButton');
 const validateButton = document.getElementById('validateButton');
 
 
 startButton.addEventListener('click', startQuiz);
-prevButton.addEventListener('click', showPreviousQuestion); // Nouveau gestionnaire
+prevButton.addEventListener('click', showPreviousQuestion); 
 nextButton.addEventListener('click', showNextQuestion);
 validateButton.addEventListener('click', showResults);
 
